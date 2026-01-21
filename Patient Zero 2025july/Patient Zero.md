@@ -1,0 +1,3 @@
+This project is the result of another one week gamejam me and my friend Rasmus Kullas participated in last summer.
+The code quality is definitely better but still not amazing. I still think you can see some improvements compared to End of the LINE. The AI system is much a more fleshed out Finite State Machine, each state being its own script.
+The goal of this project was primarily to have a web export so people could play directly in the browser, which meant we had to focus more on optimization.
